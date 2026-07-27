@@ -14,7 +14,7 @@ Each repo will include a topic providing a brief explanation of the techstack us
 
 [📕] - _interview assignment_
 
-[🏋️] - _just trying out a tech stack and turning it into a small project_
+[🏋️] - _just trying out a techstack and turning it into a small project_
 
 
 I hope these emojis help you understand the contents of each repo!
