@@ -10,11 +10,11 @@ I usually design and write code by slicing the designs I've created.
 
 Each repo will include a topic providing a brief explanation of the techstack used in the project. Each repo will have a short description, and those starting with a specific emoji will have the following meanings: 
 
-[🚀] - _personal project/project open to the public_
+🚀 - `personal project/project open to the public`
 
-[📕] - _interview assignment_
+📕 - `interview assignment`
 
-[🏋️] - _just trying out a techstack and turning it into a small project_
+🏋️ - `just trying out a techstack and turning it into a small project`
 
 
 I hope these emojis help you understand the contents of each repo!
@@ -23,10 +23,11 @@ I hope these emojis help you understand the contents of each repo!
 I'm currently transitioning to modern development using a modern tech stack as well.
 
 What I'm focusing on now:
-- **React** (TSX & JSX)
-- **NodeJS** (ExpressJS)
-- **NextJS**
-- **Tailwind** & **Framer Motion**
+- `React` (TSX & JSX)
+- `NodeJS` (ExpressJS)
+- `NextJS`
+- `Tailwind`
+- `Framer Motion`
 
 My old tech stack:
 - Laravel
