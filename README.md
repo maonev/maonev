@@ -23,8 +23,8 @@ I hope these emojis help you understand the contents of each repo!
 I'm currently transitioning to modern development using a modern tech stack as well.
 
 What I'm focusing on now:
-- `React` (TSX & JSX)
-- `NodeJS` (ExpressJS)
+- `React` (TSX)
+- `NodeJS` (ExpressJS/NestJS)
 - `NextJS`
 - `Tailwind`
 - `Framer Motion`
