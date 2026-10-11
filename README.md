@@ -10,7 +10,7 @@ I usually design and write code by slicing the designs I've created.
 
 Each repo will include a topic providing a brief explanation of the techstack used in the project. Each repo will have a short description, and those starting with a specific emoji will have the following meanings: 
 
-🚀 - `personal project/project open to the public`
+🚀 - `personal project`
 
 📕 - `interview assignment`
 
